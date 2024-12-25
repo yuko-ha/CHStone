@@ -40,7 +40,7 @@ Ref 4.) A. C. Hung, "PVRG-JPEG CODEC 1.1," Technical Report, Stanford University
 Ref 5.) [AILab](http://www-ailab.elcom.nitech.ac.jp/)  
 Re6 6.) M. R. Guthaus, J. S. Ringenberg, and D. Ernst, "MiBench: A free, commercially representative embedded benchmark suite," WWC, 2001.  
 
-##Publication
+## Publication
 
 Please cite the following paper when you publish a paper where CHStone is used.
 
