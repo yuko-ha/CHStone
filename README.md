@@ -38,11 +38,11 @@ Ref 2.) [SNU Real-time Benchmarks](http://archi.snu.ac.kr/realtime/benchmark/)
 Ref 3.) C. Lee, M. Potkonjak, and W. H. Mangione-Smith, "MediaBench: A tool for evaluating and synthesizing multimedia and communicatons systems," MICRO, 1997.  
 Ref 4.) A. C. Hung, "PVRG-JPEG CODEC 1.1," Technical Report, Stanford University, 1993.  
 Ref 5.) [AILab](http://www-ailab.elcom.nitech.ac.jp/)  
-Re6 6.) M. R. Guthaus, J. S. Ringenberg, and D. Ernst, "MiBench: A free, commercially representative embedded benchmark suite," WWC, 2001.  
+Ref 6.) M. R. Guthaus, J. S. Ringenberg, and D. Ernst, "MiBench: A free, commercially representative embedded benchmark suite," WWC, 2001.  
 
 ## Publication
 
-Please cite the following paper when you publish a paper where CHStone is used.
+Please cite the following paper when you publish a paper using CHStone.
 
 Yuko Hara, Hiroyuki Tomiyama, Shinya Honda and Hiroaki Takada,   
 ["Proposal and Quantitative Analysis of the CHStone Benchmark Program Suite for Practical C-based High-level Synthesis"](https://doi.org/10.2197/ipsjjip.17.242)  
