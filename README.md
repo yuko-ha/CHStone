@@ -56,5 +56,5 @@ Interesting, usefull high-level synthesis tools.
 - [LegUp](http://www.legup.org/) - an open source high-level synthesis framework
 - [PandA](http://panda.dei.polimi.it/) - an open source HW-SW codesign framework, including high-level synthesis and so on
 
-## Lisence 
-Please follow the lisence policy of the individual original source. 
+## License 
+Please follow the license policy of the individual original source. 
