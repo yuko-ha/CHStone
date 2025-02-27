@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/d84bf8b5-3d87-435a-8272-86e27b8e592c" width="30%">
+</p>
+
 # CHStone
 
 A Suite of Benchmark Programs for C-based High-Level Synthesis
